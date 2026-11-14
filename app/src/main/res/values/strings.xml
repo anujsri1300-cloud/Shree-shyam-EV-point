@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Shree Shyam EV</string>
+    <string name="business_full_name">Shree Shyam Charging Station</string>
+    <string name="nav_home">Station</string>
+    <string name="nav_map">Locations</string>
+    <string name="nav_recharge">Recharge</string>
+    <string name="nav_owner">Owner</string>
+    <string name="owner_rate_locked_note">Billing is locked to the per-unit rate set by the Owner.</string>
+    <string name="open_in_google_maps">Open in Google Maps</string>
+    <string name="pay_via_upi">Pay via UPI App</string>
+    <string name="confirm_upi_payment">Confirm UPI Paid</string>
+    <string name="confirm_cash_payment">Collect Cash &amp; Start</string>
+</resources>

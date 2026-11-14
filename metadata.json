@@ -1,0 +1,6 @@
+{
+  "name": "Shree Shyam EV",
+  "description": "EV charging station app for Shree Shyam Charging Station featuring owner-controlled per-unit rates, Google Maps station locations, and UPI & Cash recharge options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
